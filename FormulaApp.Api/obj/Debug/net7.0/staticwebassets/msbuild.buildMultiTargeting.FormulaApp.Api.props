@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FormulaApp.Api.props" />
+</Project>
